@@ -1,1 +1,1 @@
-This is a Demo Video Explaining The Project in Deatail. 
+This is a Video Demonstration of The Project. 
