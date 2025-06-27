@@ -79,7 +79,7 @@ HealthAI/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/HealthAI.git
+#git clone https://github.com/your-username/HealthAI.git
 cd HealthAI
 
 # Create and activate a virtual environment
